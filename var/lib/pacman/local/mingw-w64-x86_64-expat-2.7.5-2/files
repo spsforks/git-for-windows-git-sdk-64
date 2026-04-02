@@ -12,7 +12,7 @@ mingw64/lib/cmake/
 mingw64/lib/cmake/expat-2.7.5/
 mingw64/lib/cmake/expat-2.7.5/expat-config-version.cmake
 mingw64/lib/cmake/expat-2.7.5/expat-config.cmake
-mingw64/lib/cmake/expat-2.7.5/expat-noconfig.cmake
+mingw64/lib/cmake/expat-2.7.5/expat-release.cmake
 mingw64/lib/cmake/expat-2.7.5/expat.cmake
 mingw64/lib/libexpat.a
 mingw64/lib/libexpat.dll.a

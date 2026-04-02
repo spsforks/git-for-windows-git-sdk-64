@@ -1,8 +1,8 @@
 %NAME%
-mingw-w64-i686-xz
+mingw-w64-x86_64-xz
 
 %VERSION%
-5.8.2-1
+5.8.3-1
 
 %BASE%
 mingw-w64-xz
@@ -17,16 +17,16 @@ https://tukaani.org/xz
 any
 
 %BUILDDATE%
-1766023645
+1775017550
 
 %INSTALLDATE%
-1766116246
+1775154306
 
 %PACKAGER%
-CI (msys2/msys2-autobuild/9963aa3e/20323483454)
+CI (msys2/msys2-autobuild/b28ef76c/23831775366)
 
 %SIZE%
-1921300
+3110363
 
 %REASON%
 1
@@ -39,7 +39,7 @@ sha256
 pgp
 
 %DEPENDS%
-mingw-w64-i686-gettext-runtime
+mingw-w64-x86_64-gettext-runtime
 
 %XDATA%
 pkgtype=pkg
