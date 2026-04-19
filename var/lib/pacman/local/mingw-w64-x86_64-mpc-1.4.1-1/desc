@@ -2,7 +2,7 @@
 mingw-w64-x86_64-mpc
 
 %VERSION%
-1.4.0-1
+1.4.1-1
 
 %BASE%
 mingw-w64-mpc
@@ -17,16 +17,16 @@ https://www.multiprecision.org
 any
 
 %BUILDDATE%
-1774192298
+1776473038
 
 %INSTALLDATE%
-1774259829
+1776575939
 
 %PACKAGER%
-CI (msys2/msys2-autobuild/5687451b/23405893275)
+CI (msys2/msys2-autobuild/actions/runs/24592809094/job/71916997125)
 
 %SIZE%
-564933
+564896
 
 %REASON%
 1
