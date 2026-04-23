@@ -2,7 +2,7 @@
 perl-XML-Parser
 
 %VERSION%
-2.56-2
+2.57-1
 
 %BASE%
 perl-XML-Parser
@@ -17,16 +17,16 @@ https://metacpan.org/dist/XML-Parser
 x86_64
 
 %BUILDDATE%
-1776718112
+1776810486
 
 %INSTALLDATE%
-1776834961
+1776921583
 
 %PACKAGER%
-CI (msys2/msys2-autobuild/actions/runs/24689445017/job/72207325774)
+CI (msys2/msys2-autobuild/actions/runs/24749598027/job/72409594090)
 
 %SIZE%
-440624
+444019
 
 %GROUPS%
 perl-modules
@@ -47,7 +47,7 @@ libexpat
 perl-File-ShareDir
 
 %PROVIDES%
-perlxml=2.56
+perlxml=2.57
 
 %XDATA%
 pkgtype=pkg

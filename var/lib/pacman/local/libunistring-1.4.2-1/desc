@@ -2,7 +2,7 @@
 libunistring
 
 %VERSION%
-1.4.1-1
+1.4.2-1
 
 %BASE%
 libunistring
@@ -17,16 +17,16 @@ https://www.gnu.org/software/libunistring/
 x86_64
 
 %BUILDDATE%
-1769854747
+1776792698
 
 %INSTALLDATE%
-1770007836
+1776921583
 
 %PACKAGER%
-CI (msys2/msys2-autobuild/59a03c95/21542969199)
+CI (msys2/msys2-autobuild/actions/runs/24736253097/job/72363852740)
 
 %SIZE%
-2798695
+2799825
 
 %REASON%
 1
